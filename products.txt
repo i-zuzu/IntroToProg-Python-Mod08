@@ -1,0 +1,4 @@
+Table, 78.0
+Lamp, 6.0
+Desk, 3.0
+Chair, 8.0
